@@ -1,11 +1,13 @@
+import './App.css'
+
 function App() {
   return (
     <div>
       <h1>Web Tasarimi ve Programlama </h1>
       <h2>LAB -1</h2>
-      <p>Ad Soyad: Antigravity Assistant</p>
-      <p>Ogrenci No: 20240001</p>
-      <p>Bolum: Bilgisayar Muhendisligi</p>
+      <p>Ad Soyad: Samet ALTUNER</p>
+      <p>Öğrenci No: 235541090</p>
+      <p>Bölüm: Yazılım Muhendisligi</p>
       <p>Hobiler: Kod yazmak, veri analizi, yapay zeka arastirmalari</p>
     </div>
   )
