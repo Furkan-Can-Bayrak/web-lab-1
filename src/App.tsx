@@ -8,7 +8,7 @@ function App() {
       <p>Ad Soyad: Samet ALTUNER</p>
       <p>Öğrenci No: 235541090</p>
       <p>Bölüm: Yazılım Muhendisligi</p>
-      <p>Hobiler: Kod yazmak, veri analizi, yapay zeka arastirmalari</p>
+
     </div>
   )
 }
