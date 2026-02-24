@@ -27,9 +27,9 @@ function App() {
           <p>Merhaba, ben Samet Altuner. Yazilim Muhendisligi ogrencisiyim.</p>
           <ul>
             <li>Flutter</li>
-            <li>Java</li>
-            <li>React / TypeScript</li>
-            <li>HTML5 / CSS3</li>
+            <li>Java-Spring Boot</li>
+            <li>  javascript</li>
+            <li>HTML / CSS</li>
           </ul>
         </section>
 
@@ -45,7 +45,7 @@ function App() {
             <h3>Akademik Icerik Sistemi</h3>
             <img src="/proexpert.png" alt="Proexpert Akademik Icerik Sistemi ekran goruntusu" />
             <p>Makale, bildiri, kitap ve proje gibi akademik iceriklerin listelendigi ve yonetilebildigi bir platform.</p>
-            <p><strong>Kullanilan Teknoloji:</strong> Java</p>
+            <p><strong>Kullanilan Teknoloji:</strong> Java-Spring Boot</p>
           </article>
         </section>
 
@@ -103,7 +103,7 @@ function App() {
       </main>
 
       <footer>
-        <p>&copy; 2025 Samet Altuner. Tum haklari saklidir.</p>
+        <p>&copy; 2026 Samet ALTUNER. Tum haklari saklidir.</p>
         <p>
           <a href="https://github.com/SametAltuner" target="_blank" rel="noopener noreferrer">GitHub</a> |
           <a href="https://www.linkedin.com/in/samet-altuner-910712294" target="_blank" rel="noopener noreferrer">LinkedIn</a>
