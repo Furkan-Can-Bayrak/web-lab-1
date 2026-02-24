@@ -21,7 +21,7 @@ function App() {
         <section id="hakkimda">
           <h2>Hakkimda</h2>
           <figure>
-            <img src="/profil.jpg" alt="Samet Altuner'in vesikalik fotografi" />
+            <img src="/profil.jpg" alt="Samet Altuner'in vesikalik fotografi" width="150" height="150" />
             <figcaption>Samet Altuner</figcaption>
           </figure>
           <p>Merhaba, ben Samet Altuner. Yazilim Muhendisligi ogrencisiyim.</p>
@@ -37,13 +37,13 @@ function App() {
           <h2>Projelerim</h2>
           <article>
             <h3>Ruya Tabiri</h3>
-            <img src="/ruya-tabiri.jpg" alt="Ruya Tabiri uygulamasi ana ekran goruntusu" />
+            <img src="/ruya-tabiri.jpg" alt="Ruya Tabiri uygulamasi ana ekran goruntusu" width="800" height="400" loading="lazy" />
             <p>Kullanicilarin ruyalarini yorumlatan kapsamli bir mobil uygulama.</p>
             <p><strong>Kullanilan Teknoloji:</strong> Flutter</p>
           </article>
           <article>
             <h3>Akademik Icerik Sistemi</h3>
-            <img src="/proexpert.png" alt="Proexpert Akademik Icerik Sistemi ekran goruntusu" />
+            <img src="/proexpert.png" alt="Proexpert Akademik Icerik Sistemi ekran goruntusu" width="800" height="400" loading="lazy" />
             <p>Makale, bildiri, kitap ve proje gibi akademik iceriklerin listelendigi ve yonetilebildigi bir platform.</p>
             <p><strong>Kullanilan Teknoloji:</strong> Java-Spring Boot</p>
           </article>
